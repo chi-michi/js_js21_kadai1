@@ -1,0 +1,94 @@
+@charset "utf-8";
+
+header{
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+body{
+    width: 1200px;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+.morning-duty{
+
+        padding: 0.5em 1em;
+        margin: 1em 0;
+        background: #f4f4f4;
+        border-left: solid 20px #72ccc3;
+        box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.33)
+    }
+
+
+
+h2{
+    font-size: 30px;
+    padding-bottom:20px
+}
+
+.m-table{
+    padding-top: 7px;
+    padding-bottom: 50px;
+}
+
+.m-table th{
+    background-color:#f4f4f4;
+    padding: 5px;
+    font-size: 20px
+    
+}
+
+.m-table td{
+    font-size: 15px;
+    padding: 5px;
+}
+
+
+#button{
+    margin: 10px;
+    margin-top: 10px;
+}
+
+
+
+.n-table {
+    margin-top: 10px;
+    padding-top: 7px;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+.n-table th{
+    padding: 5px;
+    background-color:#f4f4f4;
+    font-size: 20px
+    
+}
+
+  table th, table td {
+    border: solid 2px #ebebeb;
+    /*実線 1px 黒*/
+  }
+  /*余白と文字装飾は省略*/
+
+  .night-duty{
+    padding: 0.5em 1em;
+    margin: 1em 0;
+    background: #f4f4f4;
+    border-left: solid 20px #4b55db;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.33)
+}
+
+.n-table td{
+    font-size: 15px;
+    padding: 5px;
+}
+
+#n_button{
+    margin: 10px;
+    margin-top: 10px;
+}
